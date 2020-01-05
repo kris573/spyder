@@ -6,3 +6,4 @@ for i in range(100):
 print(3+5)
 print(1+100)
 print(34+56)
+print(1+1)
